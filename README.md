@@ -4,7 +4,7 @@ The objective of this project is to perform sentiment analysis on textual data t
 ### Sample Dataset
 
 ### Dataset Overview
-+ The dataset used in project is Twitter dataset ehich contains textual data collected from Kaggle. it is primarily sentiment analysis.
++ The dataset used in project is Twitter dataset which contains textual data collected from Kaggle. it is primarily sentiment analysis.
 + The dataset contains a mix of positive ,neutral,and negative sentiments,making it suitable for training and evaluating sentiment classification models.
 + The dataset is used to:
    -Analyze public opinion through text data
