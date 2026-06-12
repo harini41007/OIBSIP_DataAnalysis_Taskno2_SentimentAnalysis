@@ -27,50 +27,50 @@ The objective of this projet is to perform sentiment analysis on textual data to
   ### Steps in Sentiment Analysis
    The following steps were performance to bulid the sentiment analysis model
 
-    1.Import Libraries
+ 1.Import Libraries
      + Pandas-Data handling
      + re-Text cleaning
      + Scikit-learn - Model building and evaluation
 
-    2.Load Dataset
+ 2.Load Dataset
      + Loaded dataset using 'pd.read_csv()'
      + Display initial data
 
-    3.Data Inspection
+ 3.Data Inspection
      + View dataset structure using df.info()and df.describe()function
    
-   4.Data cleaning
+ 4.Data cleaning
      + Removed duplicate rows
      + Identified missing values
      + Removed rows with missing test or category
 
-    5.text preprocessing
+ 5.text preprocessing
      + Converted text to lowercase
      + removed URLs,Special  characters and Extra spaces
    
-   6.Feature Extraction (Text to Numbers)
+ 6.Feature Extraction (Text to Numbers)
      + Used TF-IDF Vectorizer to convert text into numerical vectors
      + Extracted features from cleaned set
 
-    7.Define Target Variable
+ 7.Define Target Variable
      + Set X- Text features and y - Sentiment labels ('category')
 
-    8.Train-Test Split
+ 8.Train-Test Split
     + Split data into Training (80%)and Testing(20%)
 
-    9.Model Training
+ 9.Model Training
      + Used Logistic Regression
 
-    10.Model Evaluation
+ 10.Model Evaluation
       + Predicted sentiment on test data
       + Calcualted Accuracy Score Classification Report and Confusion Matrix
 
-    11.Sample prediction
+ 11.Sample prediction
       + Tested model on new important
       + Predicted sentiment label
       + Mapped output to:Positive(1),Neutral(0),Negative(-1)
 
-    12.Visualized
+ 12.Visualized
       + Plotted sentiment distribution using bar chart
       + visualized frequency of each sentiment category
 
