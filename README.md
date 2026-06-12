@@ -64,7 +64,9 @@ The objective of this projet is to perform sentiment analysis on textual data to
 
    ### Outcome
       
-<img width="1577" height="227" alt="image" src="https://github.com/user-attachments/assets/a1c3fa09-6a18-49df-afeb-dab3d79c90fb" /
+
+
+<img width="1717" height="233" alt="image" src="https://github.com/user-attachments/assets/15cbb4ed-7a86-415a-96dd-4b96499366fc" />
 
 
 
