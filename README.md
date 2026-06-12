@@ -1,6 +1,6 @@
 # Sentiment Analysis&nbsp;&nbsp;
 ### Objective 
-The objective of this projet is to perform sentiment analysis on textual data to identify and classify the opinions expressed as positive,negative,or neutral.This helps in understanding user behavior,analyzing feedback,and extracting meaningful insights from unstructured text data.Sentiment analysis is used to analyze text data such as reviews,comments,or feedback and classify the sentiment into categories like positive,negative,or neutral.This process helps in understanding customer opinions,identifying trends,and supporting data-driven decision-making
+The objective of this project is to perform sentiment analysis on textual data to identify and classify the opinions expressed as positive,negative,or neutral.This helps in understanding user behavior,analyzing feedback,and extracting meaningful insights from unstructured text data.Sentiment analysis is used to analyze text data such as reviews,comments,or feedback and classify the sentiment into categories like positive,negative,or neutral.This process helps in understanding customer opinions,identifying trends,and supporting data-driven decision-making
 ### Sample Dataset
 
 ### Dataset Overview
