@@ -63,6 +63,8 @@ The objective of this projet is to perform sentiment analysis on textual data to
       + visualized frequency of each sentiment category
 
    ### Outcome
+      
+<img width="1577" height="227" alt="image" src="https://github.com/user-attachments/assets/a1c3fa09-6a18-49df-afeb-dab3d79c90fb" /
 
 
 
